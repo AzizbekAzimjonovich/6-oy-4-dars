@@ -4,7 +4,7 @@ function footer() {
   return (
     <div className='footer'>
       <div className="footer-container container">
-        <p>All Right Reserved. <a href="https://www.youtube.com/@akhrorweb">click</a></p>
+        <p>All Right Reserved. <a href="https://t.me/azizbek1678">Azizbek</a></p>
       </div>
     </div>
   )
